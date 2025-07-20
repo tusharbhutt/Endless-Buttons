@@ -51,7 +51,7 @@ I always found it odd that in the early days of ComfyUI, you could not change th
 ![fontifierbox](./img/fontifierbox.png)
 
 
-Drag the box aronud by clicking and holding the title.  To cancel, you can simply click outside the dialog box or press the escape key.  With this dialog box, you can do the following:
+Drag the box around by clicking and holding the title.  To cancel, you can simply click outside the dialog box or press the escape key.  With this dialog box, you can do the following:
 
 + Globally change the font size for all text elements
 + Change the fonts themselves
