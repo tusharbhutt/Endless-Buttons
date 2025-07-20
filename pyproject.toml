@@ -1,0 +1,15 @@
+[project]
+name = "endless-buttons"
+description = "A small set of JavaScript files I created for myself. The scripts provide Quality of Life enhancements to the ComfyUI interface, such as changing fonts and font sizes."
+version = "1.0.2"
+license = { file = "LICENSE" }
+dependencies = ""
+
+[project.urls]
+Repository = "https://github.com/tusharbhutt/Endless-Buttons"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "tusharbhutt"
+DisplayName = "Endless 🌊✨ Butons"
+Icon = "https://raw.githubusercontent.com/tusharbhutt/Endless-Buttons/main/img/icon.png"
