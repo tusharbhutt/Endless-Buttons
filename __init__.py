@@ -8,7 +8,7 @@
 WEB_DIRECTORY = "./web/"
 
 # Version info
-__version__ = "1.0.2"
+__version__ = "1.1.0
 
 print("\n===============================")
 print(f"Endless Sea of Stars Buttons v{__version__} loaded successfully! 🌠")
