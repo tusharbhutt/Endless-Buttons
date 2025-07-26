@@ -1,7 +1,7 @@
 [project]
 name = "endless-buttons"
-description = "A small set of JavaScript files I created for myself. The scripts provide Quality of Life enhancements to the ComfyUI interface, such as changing fonts and font sizes."
-version = "1.2.0"
+description = "A small set of JavaScript files I created for myself. The scripts provide Quality of Life enhancements to the ComfyUI interface, such as multiple node spawning, a node minimap, and changing fonts and font sizes."
+version = "1.2.1"
 license = { file = "LICENSE" }
 dependencies = ""
 
